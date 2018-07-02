@@ -1,0 +1,6 @@
+framework module Pods_WhetherData {
+  umbrella header "Pods-WhetherData-umbrella.h"
+
+  export *
+  module * { export * }
+}
